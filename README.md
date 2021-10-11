@@ -2,7 +2,7 @@
 
 ## My goal is to use technology to create products that make people's lives easier, simpler, and more fun.
 
-I am currently a Software Engineer at [@brdg-ai](https://github.com/brdg-ai), where I focus on creating the tools that power our machine learning pipeline.
+I am currently a Senior Frontend Engineer at [@blastpoint-inc](https://github.com/blastpoint-inc).
 
 In my spare time I help organize [@codeyoungstown](https://github.com/codeyoungstown).
 
